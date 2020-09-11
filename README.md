@@ -1,6 +1,6 @@
 ALSE
 ==============
-LABORATORIO 2 
+LABORATORIO 2 Andrés Gómez,David Sandoval
 ============================
 
 Descripción del laboratorio (punto 1)
