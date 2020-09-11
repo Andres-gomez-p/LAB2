@@ -46,4 +46,4 @@ Nota: Cada vez que se ejecuta una opción, el programa pregunta que nueva opció
 
 Diagrama
 -----------
-![DIAGRAMA2](https://user-images.githubusercontent.com/69565998/92824763-6b5a2280-f394-11ea-9498-cbd4ede82273.jpeg)
+![Punto2 (2)](https://user-images.githubusercontent.com/69565998/92828048-3780fc00-f398-11ea-95c5-f4af1712faaf.jpg)
